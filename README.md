@@ -1,3 +1,4 @@
+![download](https://user-images.githubusercontent.com/90469048/133803699-e507d6a4-58d0-4e53-97fb-7147f69fbb37.png)
 # fake_news_classifier
 Exploring the news dataset
 
